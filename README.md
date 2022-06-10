@@ -5,7 +5,10 @@
 
 # Sobre o Projeto
 
-Escreva aqui um parágrafo contendo uma descrição ou resumo do seu projeto.
+O objetivo deste projeto em parceria com a Federação das Indústrias do Estado de Minas Gerais (FIEMG) é desenvolver um aplicativo para a empresa ProLife, fabricante e importadora de equipamentos médicos, localizada na cidade de Pouso Alegre, no Sul de Minas.
+O propósito do aplicativo é dar suporte ao processo de testes realizados nos equipamentos médicos produzidos pela empresa. Permitindo que os usuários possam registrar os testes feitos nos equipamentos de maneira mais fácil e rápida, bem como guardar os resultados obtidos durante a avaliação da qualidade dos equipamentos.
+
+
 
 <h4 align="center"> 
 	🚧  Em desenvolvimento . . .
@@ -25,12 +28,9 @@ Escreva aqui um parágrafo contendo uma descrição ou resumo do seu projeto.
 
 # Requisitos Funcionais 
 
-- [x] **Cadastrar Usuário**
+- [x] **Cadastrar Testes**
 - [x] **Fazer Login**
-- [ ] Matricular em Curso
-- [ ] Cancelar Matricula
-- [ ] Visualizar Notas
-- [ ] Visualizar e Atualizar Informações do Estudante
+- [x] **Visualizar e Atualizar Informações do Testes**
 
 # Tecnologias Usadas
 
