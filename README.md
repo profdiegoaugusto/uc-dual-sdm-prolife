@@ -71,7 +71,7 @@ Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o no
     <tr>
       <td align="center"><a href="https://github.com/LucasTri23"><img src="https://avatars.githubusercontent.com/u/100448329?v=4" width="100px;" alt=""/><br /><sub><b>Lucas Nascimento Costa</b></sub></a><br /><a title="Bug reports">🐛</a><a title="Tests">⚠️</a></td>
       <td align="center"><a href="https://github.com/Aline-rs"><img src="https://avatars.githubusercontent.com/u/78911442?v=4" width="100px;" alt=""/><br /><sub><b>Aline Rosa da Silva</b></sub></a><br /><a title="Bug reports">🐛</a><a title="Tests">⚠️</a></td>
-      <td align="center"><a href="https://github.com/Riksouza"><img src="https://avatars.githubusercontent.com/u/30755281?v=4" width="100px;" alt=""/><br /><sub><b>Italo Novais Souza</b></sub></a><br /><a title="Bug reports">🐛</a><a title="Tests">⚠️</a></td>
+      <td align="center"><a href="https://github.com/italorik"><img src="https://avatars.githubusercontent.com/u/67937892?v=4" width="100px;" alt=""/><br /><sub><b>Italo Novais Souza</b></sub></a><br /><a title="Bug reports">🐛</a><a title="Tests">⚠️</a></td>
       <td align="center"><a href="https://github.com/pegu1nho"><img src="https://avatars.githubusercontent.com/u/36618861?v=4" width="100px;" alt=""/><br /><sub><b>Pedro Eduardo Gomes</b></sub></a><br /><a title="Bug reports">🐛</a><a title="Tests">⚠️</a></td>     
     </tr>
     <tr>
